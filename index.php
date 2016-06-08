@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "<h1>MANISH</h1>";
+        echo "<h1>WELCOME</h1>";
         ?>
     </body>
 </html>
